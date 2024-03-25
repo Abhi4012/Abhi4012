@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek kumar
-- 👀 Data science AI/ML enthusiastic.
+- 👀 Data science AI/ML enthusiast.
 
 <!---
 Abhi4012/Abhi4012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
